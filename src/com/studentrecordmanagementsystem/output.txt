@@ -1,0 +1,6 @@
+STUDENT REPORT
+--------------
+ID   Name   Marks
+101  Akash   85.5
+102  praveen   90.0
+103  Surya   88.0
