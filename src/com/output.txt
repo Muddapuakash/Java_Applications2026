@@ -1,0 +1,6 @@
+STUDENT REPORT
+--------------
+ID   Name   Marks
+101  John   85.5
+102  Ravi   90.0
+103  Anu    88.0
